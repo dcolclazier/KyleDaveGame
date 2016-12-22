@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyleDaveGame.CSharp", "KyleDaveGame.CSharp.csproj", "{32D9C9F4-71F9-CC6C-5429-980D60D3A7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyleDaveGame.CSharp.Editor", "KyleDaveGame.CSharp.Editor.csproj", "{F77E501D-3879-3F2C-F306-00A9D2889F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D9C9F4-71F9-CC6C-5429-980D60D3A7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D9C9F4-71F9-CC6C-5429-980D60D3A7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D9C9F4-71F9-CC6C-5429-980D60D3A7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D9C9F4-71F9-CC6C-5429-980D60D3A7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77E501D-3879-3F2C-F306-00A9D2889F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77E501D-3879-3F2C-F306-00A9D2889F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77E501D-3879-3F2C-F306-00A9D2889F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77E501D-3879-3F2C-F306-00A9D2889F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
